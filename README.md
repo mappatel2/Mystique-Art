@@ -1,6 +1,8 @@
 # Mystique-Art
 A P5.js script that is used to create some Art using Geometric Shapes Only.
 
+![image](https://github.com/user-attachments/assets/54fb7433-8797-4da9-9125-e7632e244747)
+
 ## P5.js script:
 ``` 
 function setup() {

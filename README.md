@@ -170,4 +170,4 @@ function fourthStrip(startY, endY){
 ```
 
 ## Link to Sketch:
-[https://editor.p5js.org/rsutter/full/VZLVNSO6D](https://editor.p5js.org/map.gamedev.ubi/sketches/8VGtjLTyZ)
+[https://editor.p5js.org/map.gamedev.ubi/sketches/8VGtjLTyZ](https://editor.p5js.org/map.gamedev.ubi/sketches/8VGtjLTyZ)
